@@ -84,7 +84,7 @@
     color: #00204a;
 }
 
-@media(max-width: 700px) {
+@media(max-width: 767px) {
     .location1 {
         grid-template-columns: 1fr;
         height: 100%;
