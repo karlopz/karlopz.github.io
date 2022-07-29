@@ -1,8 +1,0 @@
-.in-between {
-    height: 50vh;
-    overflow: hidden;
-    background-image: url(/images/heart.jpg);
-    background-size: cover;
-    background-position-y: -150px;
-    background-attachment: fixed;
-}
