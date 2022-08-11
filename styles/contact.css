@@ -176,10 +176,4 @@ input, textarea {
     }    
 }
 
-@media(max-width: 595px) {
-    .contact2-container-content {
-        line-height: 2em;
-        font-size: 1rem;
-    }
-}
 
