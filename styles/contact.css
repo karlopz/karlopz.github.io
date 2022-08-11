@@ -18,6 +18,7 @@ form {
     margin: 0 auto;
     padding-bottom: 2em;
     position: relative;
+    overflow-y: auto;
 }
 
 form h2 {
@@ -173,5 +174,12 @@ input, textarea {
         padding-left: 5em;
         padding-top: 2em;
     }    
+}
+
+@media(max-width: 595px) {
+    .contact2-container-content {
+        line-height: 2em;
+        font-size: 1rem;
+    }
 }
 
